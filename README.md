@@ -2,7 +2,7 @@
 Term project for the Spring 2026 Deep Learning course.
 
 ## Student name
-- Myeognjin Seon, 22200376
+Myeognjin Seon, 22200376
 
 ## Summary
 
